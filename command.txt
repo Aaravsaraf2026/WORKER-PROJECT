@@ -23,4 +23,11 @@ alembic revision --autogenerate -m "add users table"
 
 alembic upgrade head
 
+git clone https://github.com/username/repo-name.git
+cd repo-name
+git pull origin main
+git add .
+git commit -m "clear message"
+git push origin main
+
 
