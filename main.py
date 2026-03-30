@@ -1,6 +1,4 @@
 """
-Example FastAPI app demonstrating the Redis Queue system.
-Fits your existing project structure — drop this in as main.py.
 
 Run:
     uvicorn main:app --reload
